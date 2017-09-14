@@ -7,6 +7,8 @@ a) Data repository
 
 Kaggle dataet: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
 
+[Fake News Challenge 1](https://github.com/FakeNewsChallenge/fnc-1)
+
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
 
 b) Publications
