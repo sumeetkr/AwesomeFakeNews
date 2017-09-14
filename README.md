@@ -15,6 +15,8 @@ b) Publications
 
  2017, Wang, William Yang. [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
  
+ 2017, Shu, Kai, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. ["Fake News Detection on Social Media: A Data Mining Perspective." ACM SIGKDD Explorations Newsletter 19, no. 1 (2017): 22-36.](https://arxiv.org/abs/1708.01967)
+ 
 c) Tutorials
 
 [demidovakatya/competitions](https://github.com/demidovakatya/competitions/tree/master/fake-news)
