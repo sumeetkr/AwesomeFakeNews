@@ -15,3 +15,5 @@ c) Videos and Lectures
 
 
 d) Websites
+
+[Analysis of fake news dataset with Machine Learning](http://www.robertomarchetto.com/fake_news_dataset_analysis_with_machine_learning)
