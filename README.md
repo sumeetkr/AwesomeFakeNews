@@ -5,7 +5,10 @@ Table of content:
 
 a) Data repository 
 
+Kaggle dataet: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
+
 b) Publications
+
  2017, Wang, William Yang. [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
  
 c) Videos and Lectures 
