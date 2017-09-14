@@ -5,7 +5,8 @@ Table of content:
 a) Data repository 
 
 b) Publications
-
+ [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
+ 
 c) Videos and Lectures 
 
 
