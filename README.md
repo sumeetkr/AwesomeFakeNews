@@ -6,6 +6,7 @@ Table of content:
 a) Data repository 
 
 Kaggle dataet: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
+BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
 
 b) Publications
 
