@@ -24,6 +24,7 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
  
  2015, Rubin, Victoria L., Yimin Chen, and Niall J. Conroy. ["Deception detection for news: three types of fakes." Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010083/full)
  
+ 2015, Conroy, Niall J., Victoria L. Rubin, and Yimin Chen. ["Automatic deception detection: Methods for finding fake news." Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010082/full)
  
 # c) Tutorials
 
