@@ -26,6 +26,8 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
  
  2015, Conroy, Niall J., Victoria L. Rubin, and Yimin Chen. ["Automatic deception detection: Methods for finding fake news." Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010082/full)
  
+ 2015, Hassan, Naeemul, Chengkai Li, and Mark Tremayne. ["Detecting check-worthy factual claims in presidential debates." In Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, pp. 1835-1838. ACM, 2015.](https://idir.uta.edu/~naeemul/file/factchecking-cikm15-hassan-cameraready.pdf)
+ 
 # c) Tutorials
 
 [demidovakatya/competitions](https://github.com/demidovakatya/competitions/tree/master/fake-news)
