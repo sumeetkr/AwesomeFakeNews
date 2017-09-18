@@ -17,6 +17,9 @@ b) Publications
  
  2017, Shu, Kai, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. ["Fake News Detection on Social Media: A Data Mining Perspective." ACM SIGKDD Explorations Newsletter 19, no. 1 (2017): 22-36.](https://arxiv.org/abs/1708.01967)
  
+ 2016, Kumar, Srijan, Robert West, and Jure Leskovec. ["Disinformation on the web: Impact, characteristics, and detection of wikipedia hoaxes." In Proceedings of the 25th International Conference on World Wide Web, pp. 591-602. International World Wide Web Conferences Steering Committee, 2016.](http://infolab.stanford.edu/~west1/pubs/Kumar-West-Leskovec_WWW-16.pdf)
+ 
+ 
 c) Tutorials
 
 [demidovakatya/competitions](https://github.com/demidovakatya/competitions/tree/master/fake-news)
