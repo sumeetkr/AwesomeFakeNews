@@ -20,6 +20,9 @@ b) Publications
  2016, Kumar, Srijan, Robert West, and Jure Leskovec. ["Disinformation on the web: Impact, characteristics, and detection of wikipedia hoaxes." In Proceedings of the 25th International Conference on World Wide Web, pp. 591-602. International World Wide Web Conferences Steering Committee, 2016.](http://infolab.stanford.edu/~west1/pubs/Kumar-West-Leskovec_WWW-16.pdf)
  
  
+ 2015, Rubin, Victoria L., Yimin Chen, and Niall J. Conroy. ["Deception detection for news: three types of fakes." Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010083/full)
+ 
+ 
 c) Tutorials
 
 [demidovakatya/competitions](https://github.com/demidovakatya/competitions/tree/master/fake-news)
