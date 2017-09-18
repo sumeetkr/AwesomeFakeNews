@@ -3,7 +3,7 @@ This repository contains recent research on fake news. Inspired from other 'awes
 
 Table of content:
 
-a) Data repository 
+# a) Data repository 
 
 Kaggle dataet: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
 
@@ -11,7 +11,7 @@ Kaggle dataet: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fak
 
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
 
-b) Publications
+# b) Publications
 
  2017, Wang, William Yang. [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
  
@@ -23,12 +23,12 @@ b) Publications
  2015, Rubin, Victoria L., Yimin Chen, and Niall J. Conroy. ["Deception detection for news: three types of fakes." Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010083/full)
  
  
-c) Tutorials
+# c) Tutorials
 
 [demidovakatya/competitions](https://github.com/demidovakatya/competitions/tree/master/fake-news)
 
 
-d) Websites
+# d) Useful Websites
 
 [Analysis of fake news dataset with Machine Learning](http://www.robertomarchetto.com/fake_news_dataset_analysis_with_machine_learning)
 
