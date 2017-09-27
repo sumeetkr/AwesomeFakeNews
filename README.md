@@ -11,6 +11,8 @@ Kaggle dataet: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fak
 
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
 
+Data for politifact.com, also check [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
+
 # b) Publications
 
 2017, Rashkin, Hannah, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, and Yejin Choi. ["Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 2921-2927. 2017.](http://www.aclweb.org/anthology/D17-1316)
@@ -38,5 +40,7 @@ BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-pa
 [Analysis of fake news dataset with Machine Learning](http://www.robertomarchetto.com/fake_news_dataset_analysis_with_machine_learning)
 
 [Fake News Challenge](http://www.fakenewschallenge.org/)
+
+[Politifact](politifact.com)
 
 
