@@ -5,11 +5,13 @@ Table of content:
 
 # a) Data repository 
 
-Kaggle dataet: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
+Kaggle dataset: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
 
 FakeNewsChallenge [Fake News Challenge 1](https://github.com/FakeNewsChallenge/fnc-1)
 
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
+
+FakeNewsCorpus [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - about 10 million news articles classified using [opensources.co](http://opensources.co) types 
 
 Data for politifact.com, also check [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
 
