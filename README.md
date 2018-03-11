@@ -24,6 +24,8 @@ March, 2018, Soroush Vosoughi, Deb Roy, Sinan Aral, [The spread of true and fals
 
 March, 2018, David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven A. Sloman, Cass R. Sunstein, Emily A. Thorson, Duncan J. Watts, Jonathan L. Zittrain  [The science of fake news](http://science.sciencemag.org/content/359/6380/1094/tab-pdf)
 
+Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate](https://dl.acm.org/citation.cfm?id=3159677)
+
 2017, Rashkin, Hannah, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, and Yejin Choi. ["Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 2921-2927. 2017.](http://www.aclweb.org/anthology/D17-1316)
 
  2017, Wang, William Yang. [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
