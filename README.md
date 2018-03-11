@@ -20,6 +20,10 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+March, 2018, Soroush Vosoughi, Deb Roy, Sinan Aral, [The spread of true and false news online](http://science.sciencemag.org/content/359/6380/1146)
+
+March, 2018, David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven A. Sloman, Cass R. Sunstein, Emily A. Thorson, Duncan J. Watts, Jonathan L. Zittrain  [The science of fake news](http://science.sciencemag.org/content/359/6380/1094/tab-pdf)
+
 2017, Rashkin, Hannah, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, and Yejin Choi. ["Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 2921-2927. 2017.](http://www.aclweb.org/anthology/D17-1316)
 
  2017, Wang, William Yang. [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
