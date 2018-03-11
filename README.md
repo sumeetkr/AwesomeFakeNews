@@ -41,6 +41,7 @@ Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Soci
  
  2015, Hassan, Naeemul, Chengkai Li, and Mark Tremayne. ["Detecting check-worthy factual claims in presidential debates." In Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, pp. 1835-1838. ACM, 2015.](https://idir.uta.edu/~naeemul/file/factchecking-cikm15-hassan-cameraready.pdf)
  
+ 
 # c) Tutorials
 
 [demidovakatya/competitions](https://github.com/demidovakatya/competitions/tree/master/fake-news)
@@ -54,4 +55,6 @@ Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Soci
 
 [Politifact](politifact.com)
 
+# e) Related Publications, but not necessarily on Fake-news
+2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
