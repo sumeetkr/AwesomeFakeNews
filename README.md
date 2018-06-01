@@ -20,6 +20,8 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+To appear, 2018, Kumar, Srijan, and Neil Shah. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf) arXiv preprint arXiv:1804.08559(2018).
+
 March, 2018, Soroush Vosoughi, Deb Roy, Sinan Aral, [The spread of true and false news online](http://science.sciencemag.org/content/359/6380/1146)
 
 March, 2018, David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven A. Sloman, Cass R. Sunstein, Emily A. Thorson, Duncan J. Watts, Jonathan L. Zittrain  [The science of fake news](http://science.sciencemag.org/content/359/6380/1094/tab-pdf)
