@@ -57,6 +57,7 @@ Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Soci
 
 [Politifact](politifact.com)
 
-# e) Related Publications, but not necessarily on Fake-news
+# e) Related Work, but not necessarily on Fake-news
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
+For Social Media polarization and Echo-chambers, check my other [github page](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers)
