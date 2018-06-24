@@ -20,6 +20,8 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+2018, Sebastian Tschiatschek, Adish Singla, Manuel Gomez Rodriguez, Arpit Merchant, and Andreas Krause. 2018. Fake News Detection in Social Networks via Crowd Signals. In Companion Proceedings of the The Web Conference 2018 (WWW '18). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 517-524. DOI: https://doi.org/10.1145/3184558.3188722
+
 To appear, 2018, Kumar, Srijan, and Neil Shah. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf) arXiv preprint arXiv:1804.08559(2018).
 
 March, 2018, Soroush Vosoughi, Deb Roy, Sinan Aral, [The spread of true and false news online](http://science.sciencemag.org/content/359/6380/1146)
