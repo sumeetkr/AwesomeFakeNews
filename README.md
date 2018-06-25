@@ -22,7 +22,7 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
-2018, Yaqing Wang, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao. 2018. [EANN: Event Adversarial Neural Networks](https://www.acsu.buffalo.edu/~fenglong/files/2018/kdd18_eann.pdf)
+2018, Yaqing Wang, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao. 2018. [EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection](https://www.acsu.buffalo.edu/~fenglong/files/2018/kdd18_eann.pdf)
 
 2018, Sebastian Tschiatschek, Adish Singla, Manuel Gomez Rodriguez, Arpit Merchant, and Andreas Krause. 2018. Fake News Detection in Social Networks via Crowd Signals. In Companion Proceedings of the The Web Conference 2018 (WWW '18). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland, 517-524. DOI: https://doi.org/10.1145/3184558.3188722
 
