@@ -38,7 +38,9 @@ March, 2018, David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsk
 
 Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate](https://dl.acm.org/citation.cfm?id=3159677)
 
-2017, Rashkin, Hannah, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, and Yejin Choi. ["Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 2921-2927. 2017.](http://www.aclweb.org/anthology/D17-1316)
+April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano Moret, Luca de Alfaro. ["Some Like it Hoax: Automated Fake News Detection in Social Networks"] (https://arxiv.org/abs/1704.07506)
+
+ 2017, Rashkin, Hannah, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, and Yejin Choi. ["Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 2921-2927. 2017.](http://www.aclweb.org/anthology/D17-1316)
 
  2017, Wang, William Yang. [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
  
