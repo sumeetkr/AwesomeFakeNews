@@ -5,6 +5,8 @@ Table of content:
 
 # a) Data repository 
 
+Verifying Multimedia Use at MediaEval 2015 [image-verification-corpus](https://github.com/MKLab-ITI/image-verification-corpus)
+
 Kaggle dataset: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
 
 FakeNewsChallenge [Fake News Challenge 1](https://github.com/FakeNewsChallenge/fnc-1)
