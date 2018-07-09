@@ -38,6 +38,8 @@ March, 2018, David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsk
 
 Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate](https://dl.acm.org/citation.cfm?id=3159677)
 
+2017, Volkova, Svitlana, Kyle Shaffer, Jin Yea Jang, and Nathan Hodas. ["Separating facts from fiction: Linguistic models to classify suspicious and trusted news posts on twitter."](http://www.aclweb.org/anthology/P17-2102) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), vol. 2, pp. 647-653. 2017
+
 April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano Moret, Luca de Alfaro. ["Some Like it Hoax: Automated Fake News Detection in Social Networks"] (https://arxiv.org/abs/1704.07506)
 
  2017, Rashkin, Hannah, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, and Yejin Choi. ["Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking." In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 2921-2927. 2017.](http://www.aclweb.org/anthology/D17-1316)
@@ -47,6 +49,8 @@ April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano
  2017, Shu, Kai, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. ["Fake News Detection on Social Media: A Data Mining Perspective." ACM SIGKDD Explorations Newsletter 19, no. 1 (2017): 22-36.](https://arxiv.org/abs/1708.01967)
  
  2016, Kumar, Srijan, Robert West, and Jure Leskovec. ["Disinformation on the web: Impact, characteristics, and detection of wikipedia hoaxes." In Proceedings of the 25th International Conference on World Wide Web, pp. 591-602. International World Wide Web Conferences Steering Committee, 2016.](http://infolab.stanford.edu/~west1/pubs/Kumar-West-Leskovec_WWW-16.pdf)
+ 
+ 2016, Rubin, Victoria, Niall Conroy, Yimin Chen, and Sarah Cornwell. ["Fake news or truth? using satirical cues to detect potentially misleading news."](http://www.aclweb.org/anthology/W16-0802) In Proceedings of the Second Workshop on Computational Approaches to Deception Detection, pp. 7-17. 2016.
  
  
  2015, Rubin, Victoria L., Yimin Chen, and Niall J. Conroy. ["Deception detection for news: three types of fakes." Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010083/full)
@@ -72,4 +76,9 @@ April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano
 # e) Related Work, but not necessarily on Fake-news
 2018, Kiran Garimella et al. [Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship](https://arxiv.org/pdf/1801.01665.pdf)
 
-For Social Media polarization and Echo-chambers, check my other [github page](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers)
+2018, Glenski, Maria, Tim Weninger, and Svitlana Volkova. "Identifying and Understanding User Reactions to Deceptive and Trusted Social News Sources." arXiv preprint arXiv:1805.12032 (2018).
+
+For Social Media polarization and Echo-chambers, check this [github page](https://github.com/sumeetkr/AwesomeSocialMediaPolarizationAndEchoChambers)
+
+For Stance learning, check this [github page](https://github.com/sumeetkr/AwesomeStanceLearning)
+
