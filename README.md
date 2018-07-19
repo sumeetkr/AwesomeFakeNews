@@ -40,6 +40,8 @@ March, 2018, David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsk
 
 Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate](https://dl.acm.org/citation.cfm?id=3159677)
 
+2017, Buntain, Cody, and Jennifer Golbeck. ["Automatically Identifying Fake News in Popular Twitter Threads." In Smart Cloud (SmartCloud), 2017 IEEE International Conference on, pp. 208-215. IEEE, 2017.](https://ieeexplore.ieee.org/abstract/document/8118443/)
+
 2017, Volkova, Svitlana, Kyle Shaffer, Jin Yea Jang, and Nathan Hodas. ["Separating facts from fiction: Linguistic models to classify suspicious and trusted news posts on twitter."](http://www.aclweb.org/anthology/P17-2102) In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), vol. 2, pp. 647-653. 2017
 
 April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano Moret, Luca de Alfaro. ["Some Like it Hoax: Automated Fake News Detection in Social Networks"] (https://arxiv.org/abs/1704.07506)
