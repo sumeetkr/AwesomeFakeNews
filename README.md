@@ -24,6 +24,7 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+2018, Potthast, Martin, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, and Benno Stein. ["A stylometric inquiry into hyperpartisan and fake news."](https://arxiv.org/pdf/1702.05638.pdf) arXiv preprint arXiv:1702.05638 (2017). ACL 2018
 
 2018, Nguyen Vo, Kyumin Lee, The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News, SIGIR 2018, https://arxiv.org/pdf/1806.07516.pdf 
 
