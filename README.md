@@ -24,6 +24,8 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+2018, Yaqing Wang, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao. 2018. EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '18). ACM, New York, NY, USA, 849-857. (DOI: )[https://doi.org/10.1145/3219819.3219903]
+
 2018, Jooyeon Kim, Behzad Tabibian, Alice Oh, Bernhard Schölkopf, and Manuel Gomez-Rodriguez. 2018. Leveraging the Crowd to Detect and
 Reduce the Spread of Fake News and Misinformation. In Proceedings of WSDM 2018: The Eleventh ACM International Conference on Web
 Search and Data Mining, Marina Del Rey, Ca, USA, February 5–9, 2018 (WSDM 2018), 9 pages.
