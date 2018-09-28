@@ -25,6 +25,12 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+2018, Srijan Kumar, Meng Jiang, Taeho Jung, Roger Jie Luo, and Jure Leskovec. 2018. MIS2: Misinformation and Misbehavior Mining on the Web. In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining (WSDM '18). ACM, New York, NY, USA, 799-800. DOI: https://doi.org/10.1145/3159652.3160597
+
+Shu, K., Bernard, H.R., & Liu, H. (2018). Studying Fake News via Network Analysis: Detection and Mitigation. CoRR, abs/1804.10233.
+
+Vargo, C.J., Guo, L., & Amazeen, M.A. (2018). The agenda-setting power of fake news: A big data analysis of the online media landscape from 2014 to 2016. New Media & Society, 20, 2028-2049.
+
 
 2018, Yaqing Wang, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao. 2018. EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '18). ACM, New York, NY, USA, 849-857. (DOI: )[https://doi.org/10.1145/3219819.3219903]
 
