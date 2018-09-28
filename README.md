@@ -5,6 +5,8 @@ Table of content:
 
 # a) Data repository 
 
+[SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours](http://www.aclweb.org/anthology/S17-2006)
+
 Verifying Multimedia Use at MediaEval 2015 [image-verification-corpus](https://github.com/MKLab-ITI/image-verification-corpus)
 
 Kaggle dataset: [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
@@ -78,6 +80,9 @@ April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano
 
 
 # d) Useful Websites
+
+[Pheme Project](https://www.pheme.eu/software-downloads/
+[Pheme Project)
 
 [Analysis of fake news dataset with Machine Learning](http://www.robertomarchetto.com/fake_news_dataset_analysis_with_machine_learning)
 
