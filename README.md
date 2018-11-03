@@ -25,6 +25,9 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+
+2018, Kashyap Popat, Subhabrata Mukherjee, Andrew Yates,Gerhard Weikum, DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning, EMNLP 2018, http://aclweb.org/anthology/D18-1003
+
 2018, Srijan Kumar, Meng Jiang, Taeho Jung, Roger Jie Luo, and Jure Leskovec. 2018. MIS2: Misinformation and Misbehavior Mining on the Web. In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining (WSDM '18). ACM, New York, NY, USA, 799-800. DOI: https://doi.org/10.1145/3159652.3160597
 
 2018, Shu, K., Bernard, H.R., & Liu, H. (2018). [Studying Fake News via Network Analysis: Detection and Mitigation. CoRR, abs/1804.10233.](https://www.semanticscholar.org/paper/Studying-Fake-News-via-Network-Analysis%3A-Detection-Shu-Bernard/e6009df23a51f69fe067d5aeb1e5955bf0d370a5)
