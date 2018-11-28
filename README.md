@@ -26,6 +26,8 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+2018, Adam Fourney, Miklos Z. Racz, Gireeja Ranade, Markus Mobius, and Eric Horvitz. 2017. [Geographic and Temporal Trends in Fake News Consumption During the 2016 US Presidential Election.](http://erichorvitz.com/CIKM2017_fake_news_study.pdf) In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM '17). ACM, New York, NY, USA, 2071-2074. DOI: https://doi.org/10.1145/3132847.3133147
+
 2018, Kashyap Popat, Subhabrata Mukherjee, Andrew Yates,Gerhard Weikum, DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning, EMNLP 2018, http://aclweb.org/anthology/D18-1003
 
 2018, Srijan Kumar, Meng Jiang, Taeho Jung, Roger Jie Luo, and Jure Leskovec. 2018. MIS2: Misinformation and Misbehavior Mining on the Web. In Proceedings of the Eleventh ACM International Conference on Web Search and Data Mining (WSDM '18). ACM, New York, NY, USA, 799-800. DOI: https://doi.org/10.1145/3159652.3160597
