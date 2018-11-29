@@ -26,6 +26,8 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+2018, Jingbo Shang, Jiaming Shen, Tianhang Sun, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam D. Lelkes, Cong Yu, and Jiawei Han. 2018. Investigating Rumor News Using Agreement-Aware Search. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18). ACM, New York, NY, USA, 2117-2125. DOI: https://doi.org/10.1145/3269206.3272020
+
 
 2018, Kashyap Popat, Subhabrata Mukherjee, Andrew Yates,Gerhard Weikum, DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning, EMNLP 2018, http://aclweb.org/anthology/D18-1003
 
