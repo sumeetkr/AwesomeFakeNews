@@ -26,7 +26,6 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
-2018, Adam Fourney, Miklos Z. Racz, Gireeja Ranade, Markus Mobius, and Eric Horvitz. 2017. [Geographic and Temporal Trends in Fake News Consumption During the 2016 US Presidential Election.](http://erichorvitz.com/CIKM2017_fake_news_study.pdf) In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM '17). ACM, New York, NY, USA, 2071-2074. DOI: https://doi.org/10.1145/3132847.3133147
 
 2018, Kashyap Popat, Subhabrata Mukherjee, Andrew Yates,Gerhard Weikum, DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning, EMNLP 2018, http://aclweb.org/anthology/D18-1003
 
@@ -60,6 +59,9 @@ March, 2018, Soroush Vosoughi, Deb Roy, Sinan Aral, [The spread of true and fals
 March, 2018, David M. J. Lazer, Matthew A. Baum, Yochai Benkler, Adam J. Berinsky, Kelly M. Greenhill, Filippo Menczer, Miriam J. Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven A. Sloman, Cass R. Sunstein, Emily A. Thorson, Duncan J. Watts, Jonathan L. Zittrain  [The science of fake news](http://science.sciencemag.org/content/359/6380/1094/tab-pdf)
 
 Feb, 2018, Liang Wu, Huan Liu [Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate](https://dl.acm.org/citation.cfm?id=3159677)
+
+2017, Adam Fourney, Miklos Z. Racz, Gireeja Ranade, Markus Mobius, and Eric Horvitz. 2017. [Geographic and Temporal Trends in Fake News Consumption During the 2016 US Presidential Election.](http://erichorvitz.com/CIKM2017_fake_news_study.pdf) In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM '17). ACM, New York, NY, USA, 2071-2074. DOI: https://doi.org/10.1145/3132847.3133147
+
 
 2017, Buntain, Cody, and Jennifer Golbeck. ["Automatically Identifying Fake News in Popular Twitter Threads."](https://ieeexplore.ieee.org/abstract/document/8118443/) In Smart Cloud (SmartCloud), 2017 IEEE International Conference on, pp. 208-215. IEEE, 2017.
 
