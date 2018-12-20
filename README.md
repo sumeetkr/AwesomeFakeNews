@@ -77,6 +77,10 @@ April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano
  
  2017, Shu, Kai, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. ["Fake News Detection on Social Media: A Data Mining Perspective."](https://arxiv.org/abs/1708.01967) ACM SIGKDD Explorations Newsletter 19, no. 1 (2017): 22-36.
  
+ 2016, Sampson, Justin, Fred Morstatter, Liang Wu, and Huan Liu. "Leveraging the implicit structure within social media for emergent rumor detection." In Proceedings of the 25th ACM International on Conference on Information and Knowledge Management, pp. 2377-2382. ACM, 2016.
+ 
+ 2016, Ma, Jing, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha. "Detecting Rumors from Microblogs with Recurrent Neural Networks." In IJCAI, pp. 3818-3824. 2016.
+ 
  2016, Kumar, Srijan, Robert West, and Jure Leskovec. ["Disinformation on the web: Impact, characteristics, and detection of wikipedia hoaxes."](http://infolab.stanford.edu/~west1/pubs/Kumar-West-Leskovec_WWW-16.pdf) In Proceedings of the 25th International Conference on World Wide Web, pp. 591-602. International World Wide Web Conferences Steering Committee, 2016.
  
  2016, Rubin, Victoria, Niall Conroy, Yimin Chen, and Sarah Cornwell. ["Fake news or truth? using satirical cues to detect potentially misleading news."](http://www.aclweb.org/anthology/W16-0802) In Proceedings of the Second Workshop on Computational Approaches to Deception Detection, pp. 7-17. 2016.
