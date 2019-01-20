@@ -26,6 +26,9 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+2018, Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and Resolution of Rumours in Social Media: A Survey. ACM Comput. Surv. 51, 2, Article 32 (February 2018), 36 pages. DOI: https://doi.org/10.1145/3161603
+
+
 2018, Jingbo Shang, Jiaming Shen, Tianhang Sun, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam D. Lelkes, Cong Yu, and Jiawei Han. 2018. Investigating Rumor News Using Agreement-Aware Search. In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM '18). ACM, New York, NY, USA, 2117-2125. DOI: https://doi.org/10.1145/3269206.3272020
 
 
