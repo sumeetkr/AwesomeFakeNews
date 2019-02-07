@@ -28,6 +28,8 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 2019, Bovet, Alexandre, and Hernán A. Makse. "Influence of fake news in Twitter during the 2016 US presidential election." Nature communications 10, no. 1 (2019): 7.https://www.nature.com/articles/s41467-018-07761-2.pdf 
 
+2018, Babcock, Matthew and Cox, Ramon Alfonso Villa and Kumar, Sumeet, Diffusion of pro- and anti-false information tweets: the Black Panther movie case, Jouranl of Computational and Mathematical Organization Theory, Nov, 2018, DOI: https://doi.org/10.1007/s10588-018-09286-x
+
 2018, Arkaitz Zubiaga, Ahmet Aker, Kalina Bontcheva, Maria Liakata, and Rob Procter. 2018. Detection and Resolution of Rumours in Social Media: A Survey. ACM Comput. Surv. 51, 2, Article 32 (February 2018), 36 pages. DOI: https://doi.org/10.1145/3161603
 
 
