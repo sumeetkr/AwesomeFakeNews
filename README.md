@@ -1,6 +1,8 @@
 # Awesome Fake News
 This repository contains recent research on fake news. Inspired from other 'awesome' github pages like [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).
 
+If you would like your published paper/data to be added here, please message me.
+
 Table of content:
 
 # a) Data repository 
@@ -25,6 +27,9 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+
+2019, Nir Grinberg, Kenneth Joseph, Lisa Friedland1, Briony Swire-Thompson, David Lazer, Fake news on Twitter during the 2016 U.S. presidential election, Science, http://science.sciencemag.org/content/363/6425/374
+
 
 2019, Bovet, Alexandre, and Hernán A. Makse. "Influence of fake news in Twitter during the 2016 US presidential election." Nature communications 10, no. 1 (2019): 7.https://www.nature.com/articles/s41467-018-07761-2.pdf 
 
