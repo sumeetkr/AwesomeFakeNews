@@ -28,7 +28,7 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
-2019, Ruths D. The misinformation machine. Science. 2019 Jan 25;363(6425):348-.
+2019, Ruths D. [The misinformation machine. Science. 2019 Jan 25;363(6425):348-.](https://science.sciencemag.org/content/363/6425/348)
 
 2019, Nir Grinberg, Kenneth Joseph, Lisa Friedland1, Briony Swire-Thompson, David Lazer, Fake news on Twitter during the 2016 U.S. presidential election, Science, http://science.sciencemag.org/content/363/6425/374
 
