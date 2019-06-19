@@ -27,6 +27,7 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+2019, Kai Shu, Suhang Wang, and Huan Liu. 2019. [Beyond News Contents: The Role of Social Context for Fake News Detection](https://doi.org/10.1145/3289600.3290994). In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (WSDM '19). ACM, New York, NY, USA, 312-320. DOI: https://doi.org/10.1145/3289600.3290994
 
 2019, Ruths D. [The misinformation machine. Science. 2019 Jan 25;363(6425):348-.](https://science.sciencemag.org/content/363/6425/348)
 
