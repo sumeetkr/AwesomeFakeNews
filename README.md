@@ -28,6 +28,10 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
+2019, Dhruv Khattar, Jaipal Singh Goud, Manish Gupta, and Vasudeva Varma. 2019. [MVAE: Multimodal Variational Autoencoder for Fake News Detection](https://doi.org/10.1145/3308558.3313552). In The World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 2915-2921. DOI: https://doi.org/10.1145/3308558.3313552
+
+2019, Ceren Budak. 2019. [What happened? The Spread of Fake News Publisher Content During the 2016 U.S. Presidential Election](https://doi.org/10.1145/3308558.3313721). In The World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 139-150. DOI: https://doi.org/10.1145/3308558.3313721
+
 2019, Qiang Zhang, Aldo Lipani, Shangsong Liang, and Emine Yilmaz. 2019. [Reply-Aided Detection of Misinformation via Bayesian Deep Learning](https://doi.org/10.1145/3308558.3313718). In The World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 2333-2343. DOI: https://doi.org/10.1145/3308558.3313718
 
 2019, Kai Shu, Suhang Wang, and Huan Liu. 2019. [Beyond News Contents: The Role of Social Context for Fake News Detection](https://doi.org/10.1145/3289600.3290994). In Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (WSDM '19). ACM, New York, NY, USA, 312-320. DOI: https://doi.org/10.1145/3289600.3290994
