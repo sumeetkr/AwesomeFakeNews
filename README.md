@@ -31,8 +31,7 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
 
-2019, Quanzhi Li, Qiong Zhang, and Luo Si [Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning], Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1173–1179
-Florence, Italy, July 28 - August 2, 2019
+2019, Quanzhi Li, Qiong Zhang, and Luo Si [Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning](https://www.aclweb.org/anthology/P19-1113), Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1173–1179, Florence, Italy, July 28 - August 2, 2019
 
 2019, Dhruv Khattar, Jaipal Singh Goud, Manish Gupta, and Vasudeva Varma. 2019. [MVAE: Multimodal Variational Autoencoder for Fake News Detection](https://doi.org/10.1145/3308558.3313552). In The World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 2915-2921. DOI: https://doi.org/10.1145/3308558.3313552
 
