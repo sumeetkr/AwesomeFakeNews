@@ -5,7 +5,9 @@ If you would like your published paper/data to be added here, please message me.
 
 Table of content:
 
-# a) Data repository 
+# a) Data repository/Papers 
+
+2019 ACL Paper: [BREAKING! Presenting Fake News Corpus For Automated Fact Checking](https://www.aclweb.org/anthology/P19-2050)
 
 [SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours](http://www.aclweb.org/anthology/S17-2006)
 
