@@ -30,6 +30,7 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+2019, Reza Zafarani, Xinyi Zhou, Kai Shu, and Huan Liu. 2019. [Fake News Research: Theories, Detection Strategies, and Open Problems](https://dl.acm.org/citation.cfm?id=3332287). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '19). ACM, New York, NY, USA, 3207-3208. DOI: https://doi.org/10.1145/3292500.3332287
 
 2019, Quanzhi Li, Qiong Zhang, and Luo Si [Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning](https://www.aclweb.org/anthology/P19-1113), Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1173–1179, Florence, Italy, July 28 - August 2, 2019
 
