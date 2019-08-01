@@ -34,6 +34,13 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+
+2019, Horne, B. D., Nørregaard, J., & Adalı, S. (2019). [Different Spirals of Sameness: A Study of Content Sharing in Mainstream and Alternative Media](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3227). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 257-266.
+
+2019, Santia, G. C., Mujib, M. I., & Williams, J. R. (2019). [Detecting Social Bots on Facebook in an Information Veracity Context](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3244). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 463-472
+
+2019, Jiang, S., Robertson, R. E., & Wilson, C. (2019). [Bias Misperceived:The Role of Partisanship and Misinformation in YouTube Comment Moderation](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3229). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 278-289.
+
 2019, Reza Zafarani, Xinyi Zhou, Kai Shu, and Huan Liu. 2019. [Fake News Research: Theories, Detection Strategies, and Open Problems](https://dl.acm.org/citation.cfm?id=3332287). In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '19). ACM, New York, NY, USA, 3207-3208. DOI: https://doi.org/10.1145/3292500.3332287
 
 2019, Quanzhi Li, Qiong Zhang, and Luo Si [Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning](https://www.aclweb.org/anthology/P19-1113), Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1173–1179, Florence, Italy, July 28 - August 2, 2019
