@@ -7,6 +7,10 @@ Table of content:
 
 # a) Data Repository/Papers 
 
+2019, Nørregaard, J., Horne, B. D., & Adalı, S. (2019). [NELA-GT-2018: A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3261). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 630-638.
+
+2019, Abu Salem, F. K., Al Feel, R., Elbassuoni, S., Jaber, M., & Farah, M. (2019). [FA-KES: A Fake News Dataset around the Syrian War](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3254). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 573-582.
+
 2019 ACL Paper: Archita Pathak, and Rohini K. Srihari [BREAKING! Presenting Fake News Corpus For Automated Fact Checking](https://www.aclweb.org/anthology/P19-2050) Proceedings of the ACL 2019, Student Research Workshop, pages 357–362
 Florence, Italy, July 28th-August 2nd, 2019
 
