@@ -7,7 +7,8 @@ Table of content:
 
 # a) Data repository/Papers 
 
-2019 ACL Paper: [BREAKING! Presenting Fake News Corpus For Automated Fact Checking](https://www.aclweb.org/anthology/P19-2050)
+2019 ACL Paper: Archita Pathak, and Rohini K. Srihari [BREAKING! Presenting Fake News Corpus For Automated Fact Checking](https://www.aclweb.org/anthology/P19-2050) Proceedings of the ACL 2019, Student Research Workshop, pages 357–362
+Florence, Italy, July 28th-August 2nd, 2019
 
 [SemEval-2017 Task 8: RumourEval: Determining rumour veracity and support for rumours](http://www.aclweb.org/anthology/S17-2006)
 
@@ -29,6 +30,9 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+
+2019, Quanzhi Li, Qiong Zhang, and Luo Si [Rumor Detection By Exploiting User Credibility Information, Attention and Multi-task Learning], Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 1173–1179
+Florence, Italy, July 28 - August 2, 2019
 
 2019, Dhruv Khattar, Jaipal Singh Goud, Manish Gupta, and Vasudeva Varma. 2019. [MVAE: Multimodal Variational Autoencoder for Fake News Detection](https://doi.org/10.1145/3308558.3313552). In The World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 2915-2921. DOI: https://doi.org/10.1145/3308558.3313552
 
