@@ -5,7 +5,7 @@ If you would like your published paper/data to be added here, please message me.
 
 Table of content:
 
-# a) Data repository/Papers 
+# a) Data Repository/Papers 
 
 2019 ACL Paper: Archita Pathak, and Rohini K. Srihari [BREAKING! Presenting Fake News Corpus For Automated Fact Checking](https://www.aclweb.org/anthology/P19-2050) Proceedings of the ACL 2019, Student Research Workshop, pages 357–362
 Florence, Italy, July 28th-August 2nd, 2019
