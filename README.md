@@ -34,6 +34,7 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+2019, Aral, Sinan, and Dean Eckles. "[Protecting elections from social media manipulation.](https://science.sciencemag.org/content/365/6456/858/tab-pdf)" Science 365, no. 6456 (2019): 858-861.
 
 2019, Horne, B. D., Nørregaard, J., & Adalı, S. (2019). [Different Spirals of Sameness: A Study of Content Sharing in Mainstream and Alternative Media](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3227). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 257-266.
 
