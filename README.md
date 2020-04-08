@@ -34,6 +34,9 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+2020, Michela Del Vicario, Walter Quattrociocchi, Antonio Scala, and Fabiana Zollo. 2019. [Polarization and Fake
+News: Early Warning of Potential Misinformation Targets.](https://arxiv.org/pdf/1802.01400.pdf) ACM Trans. Web 13, 2, Article 10 (March 2019), 22 pages. https://doi.org/10.1145/3316809
+
 2020, Michela Del Vicario, Walter Quattrociocchi, Antonio Scala, and Fabiana Zollo. 2019. [Polarization and Fake News: Early Warning of Potential Misinformation Targets.](https://dl.acm.org/doi/abs/10.1145/3316809) ACM Trans. Web 13, 2, Article 10 (March 2019), 22 pages. DOI:https://doi.org/10.1145/3316809
 
 2019, Aral, Sinan, and Dean Eckles. "[Protecting elections from social media manipulation.](https://science.sciencemag.org/content/365/6456/858/tab-pdf)" Science 365, no. 6456 (2019): 858-861.
