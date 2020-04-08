@@ -6,7 +6,6 @@ If you would like your published paper/data to be added here, please message me.
 Table of content:
 
 # a) Data Repository/Papers 
-2020,  Dietram A. Scheufele, Nicole M. Krause, [Science audiences, misinformation, and fake news](https://www.pnas.org/content/pnas/116/16/7662.full.pdf) Proceedings of the National Academy of Sciences Apr 2019, 116 (16) 7662-7669; DOI: 10.1073/pnas.1805871115
 
 2019, Nørregaard, J., Horne, B. D., & Adalı, S. (2019). [NELA-GT-2018: A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3261). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 630-638.
 
@@ -35,8 +34,12 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
-2020, Michela Del Vicario, Walter Quattrociocchi, Antonio Scala, and Fabiana Zollo. 2019. [Polarization and Fake
+
+2019, Michela Del Vicario, Walter Quattrociocchi, Antonio Scala, and Fabiana Zollo. 2019. [Polarization and Fake
 News: Early Warning of Potential Misinformation Targets.](https://arxiv.org/pdf/1802.01400.pdf) ACM Trans. Web 13, 2, Article 10 (March 2019), 22 pages. https://doi.org/10.1145/3316809
+
+2019,  Dietram A. Scheufele, Nicole M. Krause, [Science audiences, misinformation, and fake news](https://www.pnas.org/content/pnas/116/16/7662.full.pdf) Proceedings of the National Academy of Sciences Apr 2019, 116 (16) 7662-7669; DOI: 10.1073/pnas.1805871115
+
 
 2019, Aral, Sinan, and Dean Eckles. "[Protecting elections from social media manipulation.](https://science.sciencemag.org/content/365/6456/858/tab-pdf)" Science 365, no. 6456 (2019): 858-861.
 
