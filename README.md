@@ -6,6 +6,7 @@ If you would like your published paper/data to be added here, please message me.
 Table of content:
 
 # a) Data Repository/Papers 
+2020,  Dietram A. Scheufele, Nicole M. Krause, [Science audiences, misinformation, and fake news](https://www.pnas.org/content/pnas/116/16/7662.full.pdf) Proceedings of the National Academy of Sciences Apr 2019, 116 (16) 7662-7669; DOI: 10.1073/pnas.1805871115
 
 2019, Nørregaard, J., Horne, B. D., & Adalı, S. (2019). [NELA-GT-2018: A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3261). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 630-638.
 
