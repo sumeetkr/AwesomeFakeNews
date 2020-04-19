@@ -34,6 +34,7 @@ Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
 # b) Publications
+2020, Allen, Jennifer, Baird Howland, Markus Mobius, David Rothschild, and Duncan J. Watts. ["Evaluating the fake news problem at the scale of the information ecosystem."](https://advances.sciencemag.org/content/6/14/eaay3539/tab-pdf) Science Advances 6, no. 14 (2020): eaay3539.
 
 2019, Michela Del Vicario, Walter Quattrociocchi, Antonio Scala, and Fabiana Zollo. 2019. [Polarization and Fake
 News: Early Warning of Potential Misinformation Targets.](https://arxiv.org/pdf/1802.01400.pdf) ACM Trans. Web 13, 2, Article 10 (March 2019), 22 pages. https://doi.org/10.1145/3316809
