@@ -33,6 +33,8 @@ Data for politifact.com, also check [Liar, Liar Pants on Fire: A New Benchmark D
 Some websites sharing fake articles:
 https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 
+Fake News Copus : https://github.com/several27/FakeNewsCorpus
+
 # b) Publications
 2020, Allen, Jennifer, Baird Howland, Markus Mobius, David Rothschild, and Duncan J. Watts. ["Evaluating the fake news problem at the scale of the information ecosystem."](https://advances.sciencemag.org/content/6/14/eaay3539/tab-pdf) Science Advances 6, no. 14 (2020): eaay3539.
 
