@@ -7,6 +7,14 @@ Table of content:
 
 # a) Data Repository/Papers 
 
+2020, Julio C. S. Reis, Philipe Melo, Kiran Garimella, Jussara M. Almeida, Dean Eckles, Fabrício Benevenuto, [A Dataset of Fact-Checked Images Shared on WhatsApp During the Brazilian and Indian Elections](https://aaai.org/ojs/index.php/ICWSM/article/view/7356/7210), ICWSM, 2020
+
+2020, Enyan Dai, Yiwei Sun, Suhang Wang, [Ginger Cannot Cure Cancer: Battling Fake Health News with a Comprehensive Data Repository](https://aaai.org/ojs/index.php/ICWSM/article/view/7350/7204), ICWSM, 2020
+
+
+2020, Fatma Arslan, Naeemul Hassan, Chengkai Li, Mark Tremayne, [A Benchmark Dataset of Check-Worthy Factual Claims](https://aaai.org/ojs/index.php/ICWSM/article/view/7346/7200), ICWSM, 2020
+
+ 
 2019, Nørregaard, J., Horne, B. D., & Adalı, S. (2019). [NELA-GT-2018: A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3261). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 630-638.
 
 2019, Abu Salem, F. K., Al Feel, R., Elbassuoni, S., Jaber, M., & Farah, M. (2019). [FA-KES: A Fake News Dataset around the Syrian War](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3254). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 573-582.
