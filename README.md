@@ -36,6 +36,16 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
+
+2020,Rakesh Bal, Sayan Sinha, Swastika Dutta, Risabh Joshi, Sayan Ghosh, Ritam Dutt [Analysing the Extent of Misinformation in Cancer Related Tweets](https://aaai.org/ojs/index.php/ICWSM/article/view/7359/7213), ICWSM, 2020
+
+2020, Lia Bozarth, Aparajita Saraf, Ceren Budak, [Higher Ground? How Groundtruth Labeling Impacts Our Understanding of Fake News about the 2016 U.S. Presidential Nominees](https://aaai.org/ojs/index.php/ICWSM/article/view/7278/7132), ICWSM, 2020
+
+
+2020, Lia Bozarth, Ceren Budak, [Toward a Better Performance Evaluation Framework for Fake News Classification](https://aaai.org/ojs/index.php/ICWSM/article/view/7279/7133), ICWSM, 2020
+
+2020, Kai Shu, Deepak Mahudeswaran, Suhang Wang, Huan Liu, [Hierarchical Propagation Networks for Fake News Detection: Investigation and Exploitation](https://aaai.org/ojs/index.php/ICWSM/article/view/7329/7183), ICWSM, 2020
+
 2020, Allen, Jennifer, Baird Howland, Markus Mobius, David Rothschild, and Duncan J. Watts. ["Evaluating the fake news problem at the scale of the information ecosystem."](https://advances.sciencemag.org/content/6/14/eaay3539/tab-pdf) Science Advances 6, no. 14 (2020): eaay3539.
 
 2019, Michela Del Vicario, Walter Quattrociocchi, Antonio Scala, and Fabiana Zollo. 2019. [Polarization and Fake
