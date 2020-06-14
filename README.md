@@ -7,6 +7,9 @@ Table of content:
 
 # a) Data Repository/Papers 
 
+2020, Shan Jiang, Miriam Metzger, Andrew Flanagin, Christo Wilson, [Modeling and Measuring Expressed (Dis)belief in (Mis)information](https://aaai.org/ojs/index.php/ICWSM/article/view/7302/7156), ICWSM, 2020
+
+
 2020, Julio C. S. Reis, Philipe Melo, Kiran Garimella, Jussara M. Almeida, Dean Eckles, Fabrício Benevenuto, [A Dataset of Fact-Checked Images Shared on WhatsApp During the Brazilian and Indian Elections](https://aaai.org/ojs/index.php/ICWSM/article/view/7356/7210), ICWSM, 2020
 
 2020, Enyan Dai, Yiwei Sun, Suhang Wang, [Ginger Cannot Cure Cancer: Battling Fake Health News with a Comprehensive Data Repository](https://aaai.org/ojs/index.php/ICWSM/article/view/7350/7204), ICWSM, 2020
