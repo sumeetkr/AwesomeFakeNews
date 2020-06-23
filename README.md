@@ -48,6 +48,8 @@ Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
 
+2020, N Rosenfeld, A Szanto, DC Parkes, [A Kernel of Truth: Determining Rumor Veracity on Twitter by Diffusion Pattern Alone](https://dl.acm.org/doi/pdf/10.1145/3366423.3380180) - Proceedings of The Web Conference 2020, 2020
+
 2020,Rakesh Bal, Sayan Sinha, Swastika Dutta, Risabh Joshi, Sayan Ghosh, Ritam Dutt [Analysing the Extent of Misinformation in Cancer Related Tweets](https://aaai.org/ojs/index.php/ICWSM/article/view/7359/7213), ICWSM, 2020
 
 2020, Lia Bozarth, Aparajita Saraf, Ceren Budak, [Higher Ground? How Groundtruth Labeling Impacts Our Understanding of Fake News about the 2016 U.S. Presidential Nominees](https://aaai.org/ojs/index.php/ICWSM/article/view/7278/7132), ICWSM, 2020
