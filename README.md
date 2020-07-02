@@ -48,6 +48,8 @@ Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
 
+2020, Khoo, Ling Min Serena, Hai Leong Chieu, Zhong Qian, and Jing Jiang. "[Interpretable Rumor Detection in Microblogs by Attending to User Interactions](https://aaai.org/ojs/index.php/AAAI/article/view/6405)." AAAI (2020).
+
 2020, N Rosenfeld, A Szanto, DC Parkes, [A Kernel of Truth: Determining Rumor Veracity on Twitter by Diffusion Pattern Alone](https://dl.acm.org/doi/pdf/10.1145/3366423.3380180) - Proceedings of The Web Conference 2020, 2020
 
 2020,Rakesh Bal, Sayan Sinha, Swastika Dutta, Risabh Joshi, Sayan Ghosh, Ritam Dutt [Analysing the Extent of Misinformation in Cancer Related Tweets](https://aaai.org/ojs/index.php/ICWSM/article/view/7359/7213), ICWSM, 2020
