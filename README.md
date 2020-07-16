@@ -48,6 +48,9 @@ Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
 
+2020, Mingxi Cheng, Shahin Nazarian, and Paul Bogdan. 2020. [VRoC: Variational Autoencoder-aided Multi-task Rumor Classifier Based on Text. In Proceedings of The Web Conference 2020 (WWW ’20)](https://dl.acm.org/doi/abs/10.1145/3366423.3380054). Association for Computing Machinery, New York, NY, USA, 2892–2898. DOI:https://doi.org/10.1145/3366423.3380054
+
+
 2020, Khoo, Ling Min Serena, Hai Leong Chieu, Zhong Qian, and Jing Jiang. "[Interpretable Rumor Detection in Microblogs by Attending to User Interactions](https://aaai.org/ojs/index.php/AAAI/article/view/6405)." AAAI (2020).
 
 2020, N Rosenfeld, A Szanto, DC Parkes, [A Kernel of Truth: Determining Rumor Veracity on Twitter by Diffusion Pattern Alone](https://dl.acm.org/doi/pdf/10.1145/3366423.3380180) - Proceedings of The Web Conference 2020, 2020
