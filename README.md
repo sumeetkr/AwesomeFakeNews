@@ -6,6 +6,8 @@ If you would like your published paper/data to be added here, please message me.
 Table of content:
 
 # a) Data Repository/Papers 
+2020, Wang, Yaqing, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, and Jing Gao. "[Weak supervision for fake news detection via reinforcement learning.](https://www.aaai.org/ojs/index.php/AAAI/article/view/5389/5245)" In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 516-523. 2020.
+
 
 2020, Shan Jiang, Miriam Metzger, Andrew Flanagin, Christo Wilson, [Modeling and Measuring Expressed (Dis)belief in (Mis)information](https://aaai.org/ojs/index.php/ICWSM/article/view/7302/7156), ICWSM, 2020
 
