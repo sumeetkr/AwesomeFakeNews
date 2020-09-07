@@ -49,6 +49,7 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
+2020, Thai Le, Suhang Wang, and Dongwon Lee. 2020. [MALCOM: Generating Malicious Comments to Attack Neural Fake News Detection Models](https://arxiv.org/abs/2009.01048). 20th IEEE International Conference on Data Mining (ICDM).
 
 2020, Mingxi Cheng, Shahin Nazarian, and Paul Bogdan. 2020. [VRoC: Variational Autoencoder-aided Multi-task Rumor Classifier Based on Text. In Proceedings of The Web Conference 2020 (WWW ’20)](https://dl.acm.org/doi/abs/10.1145/3366423.3380054). Association for Computing Machinery, New York, NY, USA, 2892–2898. DOI:https://doi.org/10.1145/3366423.3380054
 
