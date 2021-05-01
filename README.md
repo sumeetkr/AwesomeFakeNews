@@ -49,6 +49,9 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
+2020, Tan, R., Plummer, B., & Saenko, K. (2020, November). [Detecting Cross-Modal Inconsistency to Defend against Neural Fake News](https://www.aclweb.org/anthology/2020.emnlp-main.163.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 2081-2106).
+
+
 2020, Nguyen Vo, and Kyumin Lee. [Where Are the Facts: Search for Fact-checked Information to Alleviate the Spread of Fake News.](https://arxiv.org/abs/2010.03159). EMNLP 2020. 
 
 2020, Thai Le, Suhang Wang, and Dongwon Lee. 2020. [MALCOM: Generating Malicious Comments to Attack Neural Fake News Detection Models](https://arxiv.org/abs/2009.01048). 20th IEEE International Conference on Data Mining (ICDM).
