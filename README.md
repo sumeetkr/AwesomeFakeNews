@@ -6,6 +6,9 @@ If you would like your published paper/data to be added here, please message me.
 Table of content:
 
 # a) Data Repository/Papers 
+2021, Dou, Yingtong, Kai Shu, Congying Xia, Philip S. Yu, and Lichao Sun. "[User Preference-aware Fake News Detection.](https://arxiv.org/pdf/2104.12259.pdf)" ACM SIGIR, 2021.
+
+
 2020, Wang, Yaqing, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, and Jing Gao. "[Weak supervision for fake news detection via reinforcement learning.](https://www.aaai.org/ojs/index.php/AAAI/article/view/5389/5245)" In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 516-523. 2020.
 
 
