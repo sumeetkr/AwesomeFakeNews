@@ -5,12 +5,7 @@ If you would like your published paper/data to be added here, please message me.
 
 Table of content:
 
-# a) Data Repository/Papers 
-2021, Dou, Yingtong, Kai Shu, Congying Xia, Philip S. Yu, and Lichao Sun. "[User Preference-aware Fake News Detection.](https://arxiv.org/pdf/2104.12259.pdf)" ACM SIGIR, 2021.
-
-
-2020, Wang, Yaqing, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, and Jing Gao. "[Weak supervision for fake news detection via reinforcement learning.](https://www.aaai.org/ojs/index.php/AAAI/article/view/5389/5245)" In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 516-523. 2020.
-
+# a) Dataset Papers 
 
 2020, Shan Jiang, Miriam Metzger, Andrew Flanagin, Christo Wilson, [Modeling and Measuring Expressed (Dis)belief in (Mis)information](https://aaai.org/ojs/index.php/ICWSM/article/view/7302/7156), ICWSM, 2020
 
@@ -52,6 +47,11 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
+2020, Wang, Yaqing, Weifeng Yang, Fenglong Ma, Jin Xu, Bin Zhong, Qiang Deng, and Jing Gao. "[Weak supervision for fake news detection via reinforcement learning.](https://www.aaai.org/ojs/index.php/AAAI/article/view/5389/5245)" In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 01, pp. 516-523. 2020.
+
+
+2021, Dou, Yingtong, Kai Shu, Congying Xia, Philip S. Yu, and Lichao Sun. "[User Preference-aware Fake News Detection.](https://arxiv.org/pdf/2104.12259.pdf)" ACM SIGIR, 2021.
+
 2020, Vo, N., & Lee, K. (2020, November). [Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News](https://www.aclweb.org/anthology/2020.emnlp-main.621.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 7717-7731).
 
 2020, Tan, R., Plummer, B., & Saenko, K. (2020, November). [Detecting Cross-Modal Inconsistency to Defend against Neural Fake News](https://www.aclweb.org/anthology/2020.emnlp-main.163.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 2081-2106).
