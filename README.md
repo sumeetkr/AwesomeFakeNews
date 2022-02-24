@@ -5,7 +5,9 @@ If you would like your published paper/data to be added here, please message me.
 
 Table of content:
 
-# a) Dataset Papers 
+# a) Dataset Papers
+
+2022, Dan Saattrup Nielsen, Ryan McConville, [MuMiN: A Large-Scale Multilingual Multimodal Fact-Checked Misinformation Social Network Dataset](https://arxiv.org/abs/2202.11684).
 
 2020, Shan Jiang, Miriam Metzger, Andrew Flanagin, Christo Wilson, [Modeling and Measuring Expressed (Dis)belief in (Mis)information](https://aaai.org/ojs/index.php/ICWSM/article/view/7302/7156), ICWSM, 2020
 
@@ -17,7 +19,7 @@ Table of content:
 
 2020, Fatma Arslan, Naeemul Hassan, Chengkai Li, Mark Tremayne, [A Benchmark Dataset of Check-Worthy Factual Claims](https://aaai.org/ojs/index.php/ICWSM/article/view/7346/7200), ICWSM, 2020
 
- 
+
 2019, Nørregaard, J., Horne, B. D., & Adalı, S. (2019). [NELA-GT-2018: A Large Multi-Labelled News Dataset for the Study of Misinformation in News Articles](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3261). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 630-638.
 
 2019, Abu Salem, F. K., Al Feel, R., Elbassuoni, S., Jaber, M., & Farah, M. (2019). [FA-KES: A Fake News Dataset around the Syrian War](https://www.aaai.org/ojs/index.php/ICWSM/article/view/3254). Proceedings of the International AAAI Conference on Web and Social Media, 13(01), 573-582.
@@ -35,7 +37,7 @@ FakeNewsChallenge [Fake News Challenge 1](https://github.com/FakeNewsChallenge/f
 
 BuzzFeedNews [Partisan News Analysis](https://github.com/BuzzFeedNews/2017-08-partisan-sites-and-facebook-pages)
 
-FakeNewsCorpus [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - about 10 million news articles classified using [opensources.co](http://opensources.co) types 
+FakeNewsCorpus [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - about 10 million news articles classified using [opensources.co](http://opensources.co) types
 
 Wikipedia Fact-Checking Dataset [FEVER: a large-scale dataset for Fact Extraction and VERification](http://aclweb.org/anthology/N18-1074)
 
@@ -60,7 +62,7 @@ Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 2020, Tan, R., Plummer, B., & Saenko, K. (2020, November). [Detecting Cross-Modal Inconsistency to Defend against Neural Fake News](https://www.aclweb.org/anthology/2020.emnlp-main.163.pdf). In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP) (pp. 2081-2106).
 
-2020, Nguyen Vo, and Kyumin Lee. [Where Are the Facts: Search for Fact-checked Information to Alleviate the Spread of Fake News.](https://arxiv.org/abs/2010.03159). EMNLP 2020. 
+2020, Nguyen Vo, and Kyumin Lee. [Where Are the Facts: Search for Fact-checked Information to Alleviate the Spread of Fake News.](https://arxiv.org/abs/2010.03159). EMNLP 2020.
 
 2020, Thai Le, Suhang Wang, and Dongwon Lee. 2020. [MALCOM: Generating Malicious Comments to Attack Neural Fake News Detection Models](https://arxiv.org/abs/2009.01048). 20th IEEE International Conference on Data Mining (ICDM).
 
@@ -116,7 +118,7 @@ Veracity in Social Media Conversations](https://www.aclweb.org/anthology/P19-149
 2019, Nir Grinberg, Kenneth Joseph, Lisa Friedland1, Briony Swire-Thompson, David Lazer, Fake news on Twitter during the 2016 U.S. presidential election, Science, http://science.sciencemag.org/content/363/6425/374
 
 
-2019, Bovet, Alexandre, and Hernán A. Makse. "Influence of fake news in Twitter during the 2016 US presidential election." Nature communications 10, no. 1 (2019): 7.https://www.nature.com/articles/s41467-018-07761-2.pdf 
+2019, Bovet, Alexandre, and Hernán A. Makse. "Influence of fake news in Twitter during the 2016 US presidential election." Nature communications 10, no. 1 (2019): 7.https://www.nature.com/articles/s41467-018-07761-2.pdf
 
 2018, Babcock, Matthew and Cox, Ramon Alfonso Villa and Kumar, Sumeet, Diffusion of pro- and anti-false information tweets: the Black Panther movie case, Jouranl of Computational and Mathematical Organization Theory, Nov, 2018, DOI: https://doi.org/10.1007/s10588-018-09286-x
 
@@ -144,7 +146,7 @@ https://doi.org/10.1145/3159652.3159734
 
 2018, Potthast, Martin, Johannes Kiesel, Kevin Reinartz, Janek Bevendorff, and Benno Stein. ["A stylometric inquiry into hyperpartisan and fake news."](https://arxiv.org/pdf/1702.05638.pdf) arXiv preprint arXiv:1702.05638 (2017). ACL 2018
 
-2018, Nguyen Vo, Kyumin Lee, The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News, SIGIR 2018, https://arxiv.org/pdf/1806.07516.pdf 
+2018, Nguyen Vo, Kyumin Lee, The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News, SIGIR 2018, https://arxiv.org/pdf/1806.07516.pdf
 
 
 2018, Yaqing Wang, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao. 2018. [EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection](https://www.acsu.buffalo.edu/~fenglong/files/2018/kdd18_eann.pdf)
@@ -172,27 +174,27 @@ April, 2017, Eugenio Tacchini, Gabriele Ballarin, Marco L. Della Vedova, Stefano
  2017, Rashkin, Hannah, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, and Yejin Choi. ["Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking."](http://www.aclweb.org/anthology/D17-1316) In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 2921-2927. 2017.
 
  2017, Wang, William Yang. [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/abs/1705.00648)
- 
+
  2017, Shu, Kai, Amy Sliva, Suhang Wang, Jiliang Tang, and Huan Liu. ["Fake News Detection on Social Media: A Data Mining Perspective."](https://arxiv.org/abs/1708.01967) ACM SIGKDD Explorations Newsletter 19, no. 1 (2017): 22-36.
- 
+
  2016, Sampson, Justin, Fred Morstatter, Liang Wu, and Huan Liu. ["Leveraging the implicit structure within social media for emergent rumor detection."](https://isi.edu/~fredmors/paperpdfs/cikm16sampson.pdf) In Proceedings of the 25th ACM International on Conference on Information and Knowledge Management, pp. 2377-2382. ACM, 2016.
- 
+
  2016, Ma, Jing, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha. "[Detecting Rumors from Microblogs with Recurrent Neural Networks.](https://sites.google.com/site/iswgao/home/ijcai16.pdf)" In IJCAI, pp. 3818-3824. 2016.
- 
+
  2016, Kumar, Srijan, Robert West, and Jure Leskovec. ["Disinformation on the web: Impact, characteristics, and detection of wikipedia hoaxes."](http://infolab.stanford.edu/~west1/pubs/Kumar-West-Leskovec_WWW-16.pdf) In Proceedings of the 25th International Conference on World Wide Web, pp. 591-602. International World Wide Web Conferences Steering Committee, 2016.
- 
+
  2016, Rubin, Victoria, Niall Conroy, Yimin Chen, and Sarah Cornwell. ["Fake news or truth? using satirical cues to detect potentially misleading news."](http://www.aclweb.org/anthology/W16-0802) In Proceedings of the Second Workshop on Computational Approaches to Deception Detection, pp. 7-17. 2016.
- 
+
  2015, Liu, Xiaomo, Armineh Nourbakhsh, Quanzhi Li, Rui Fang, and Sameena Shah. ["Real-time rumor debunking on twitter."](https://www.researchgate.net/profile/Quanzhi_Li2/publication/282778248_Real-time_Rumor_Debunking_on_Twitter/links/59d6cba3aca27213df9e8693/Real-time-Rumor-Debunking-on-Twitter.pdf) In Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, pp. 1867-1870. ACM, 2015.
- 
- 
+
+
  2015, Rubin, Victoria L., Yimin Chen, and Niall J. Conroy. ["Deception detection for news: three types of fakes."](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010083/full) Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.
- 
+
  2015, Conroy, Niall J., Victoria L. Rubin, and Yimin Chen. ["Automatic deception detection: Methods for finding fake news."](http://onlinelibrary.wiley.com/doi/10.1002/pra2.2015.145052010082/full) Proceedings of the Association for Information Science and Technology 52, no. 1 (2015): 1-4.
- 
+
  2015, Hassan, Naeemul, Chengkai Li, and Mark Tremayne. ["Detecting check-worthy factual claims in presidential debates."](https://idir.uta.edu/~naeemul/file/factchecking-cikm15-hassan-cameraready.pdf) In Proceedings of the 24th ACM International on Conference on Information and Knowledge Management, pp. 1835-1838. ACM, 2015.
- 
- 
+
+
 # c) Tutorials
 
 [demidovakatya/competitions](https://github.com/demidovakatya/competitions/tree/master/fake-news)
