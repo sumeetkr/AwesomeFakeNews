@@ -6,6 +6,7 @@ If you would like your published paper/data to be added here, please message me.
 Table of content:
 
 # a) Dataset Papers 
+2021,Singhal, Shivangi, Rajiv Ratn Shah, and Ponnurangam Kumaraguru. [Factorization of Fact-Checks for Low Resource Indian Languages.](https://arxiv.org/abs/2102.11276)
 
 2020, Shan Jiang, Miriam Metzger, Andrew Flanagin, Christo Wilson, [Modeling and Measuring Expressed (Dis)belief in (Mis)information](https://aaai.org/ojs/index.php/ICWSM/article/view/7302/7156), ICWSM, 2020
 
@@ -47,6 +48,11 @@ https://gist.github.com/Criipi/a3a7357466821f2ec62ce42b2529394b
 Fake News Copus : https://github.com/several27/FakeNewsCorpus
 
 # b) Publications
+2021,H. Saleh, A. Alharbi and S. H. Alsamhi,[OPCNN-FAKE: Optimized Convolutional Neural Network for Fake News Detection](https://ieeexplore.ieee.org/document/9537782)
+
+2021,H. Ali et al., [All Your Fake Detector are Belong to Us: Evaluating Adversarial Robustness of Fake-News Detectors Under Black-Box Settings](https://ieeexplore.ieee.org/document/9446139)
+
+2021,Verma, Pawan Kumar, [WELFake: word embedding over linguistic features for fake news detection.](https://ieeexplore.ieee.org/abstract/document/9395133)
 
 2021, Amila Silva, Ling Luo, Shanika Karunasekera, Christopher Leckie, [Embracing Domain Differences in Fake News: Cross-domain Fake News Detection using Multimodal Data](https://www.aaai.org/AAAI21Papers/AAAI-8716.SilvaA.pdf), AAAI 2021
 
