@@ -8,6 +8,9 @@ Table of content:
 # a) Dataset Papers 
 2021,Singhal, Shivangi, Rajiv Ratn Shah, and Ponnurangam Kumaraguru. [Factorization of Fact-Checks for Low Resource Indian Languages.](https://arxiv.org/abs/2102.11276)
 
+2021, Shivangi Aneja, Chris Bregler, Matthias Niessner, [COSMOS: Catching Out-of-Context Misinformation using Self-Supervised Learning](https://shivangi-aneja.github.io/projects/cosmos/)
+
+
 2020, Shan Jiang, Miriam Metzger, Andrew Flanagin, Christo Wilson, [Modeling and Measuring Expressed (Dis)belief in (Mis)information](https://aaai.org/ojs/index.php/ICWSM/article/view/7302/7156), ICWSM, 2020
 
 
